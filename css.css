@@ -1,0 +1,43 @@
+body{
+display: flex;
+position: absolute;
+
+
+
+}
+.header{
+background-color: violet;
+
+border: 2px solid;
+
+
+
+
+}
+
+  form  {
+border: 2px solid blue;
+margin:35%;
+padding: 100px;
+color:pink;
+}
+
+}
+.navigation{
+margin: 10%;
+display: flex;
+}
+.navigation h1{
+float: left;
+
+}
+
+.navigation ul{
+float: right;
+margin-left: 8%;
+
+
+
+
+
+}

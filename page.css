@@ -1,0 +1,62 @@
+*{
+font-family: arail;
+color: white
+}
+
+
+body{
+background-color: black;
+
+
+
+
+}
+.navigation{
+margin: 10%;
+display: flex;
+}
+.navigation h1{
+float: left;
+
+}
+
+.navigation ul{
+
+margin-left: 50%;
+
+}
+.title{
+
+margin-left: 37.3%;
+
+
+
+
+ 
+}
+.flex{
+display: flex;
+margin-left: 25%;
+}
+.c1{
+
+border: solid white;
+margin: 5%;
+}
+.c2{
+border: solid white;
+margin: 5%;
+}
+.c3{
+border: solid white;
+margin: 5%;
+}
+
+
+
+
+
+
+
+
+
